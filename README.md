@@ -22,16 +22,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcoMelucci99&theme=dracula)
 
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🔥-red?style=for-the-badge)
-
-
-![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge)
-
-
-![Hack The Planet](https://img.shields.io/badge/Hack%20The%20Planet-💻-purple?style=for-the-badge)
-
-
-![Snake animation](https://github.com/MarcoMelucci99/MarcoMelucci99/blob/output/github-contribution-grid-snake.svg)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🔥-red?style=for-the-badge) ![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge) ![Hack The Planet](https://img.shields.io/badge/Hack%20The%20Planet-💻-purple?style=for-the-badge)
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -49,6 +40,3 @@
 
 
 [![Rickroll](https://img.shields.io/badge/Click%20Me%20😏-red?style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-
-![DOOM](https://github.com/jeffThompson/DoomImage/blob/main/doom.gif?raw=true)
