@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey mate 👋
 
-<!--
-**MarcoMelucci99/MarcoMelucci99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Welcome to my Cyber Chronicles 🚀 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 Hey there! I'm a cybersecurity student at Cyber HackAdemy Unina, passionate about exploring the unseen layers of the digital world. This repository is my personal playground—where code meets security, and curiosity fuels innovation
+
+
+💻 From dissecting vulnerabilities to crafting defenses, every project here is a step deeper into the art of cybersecurity. Some things are tools, some are experiments... and some? Well, you'll have to see for yourself.
+
+
+"It's not who I am underneath, but what I do that defines me."🦇
+
+
+🔎 Stay curious. Stay ethical. Stay ahead
