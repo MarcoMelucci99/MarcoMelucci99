@@ -1,6 +1,6 @@
 # **🤖 Hello there, I'm Marco Melucci!** 👋  
 
-## 🔐 Cybersecurity Enthusiast | 📊 Master's Degree in Data Analysis  
+## 🔐 *Cybersecurity Enthusiast | 📊 Master's Degree in Data Analysis*  
 
 #  About Me 🧑‍💻 
 Hi! I'm a passionate tech enthusiast currently studying at **Cyber Hackademy Unina**.  
@@ -14,7 +14,7 @@ Technology isn't just a tool for me—it's a way to create, solve, and innovate.
 > 🦇 *"It's not who I am underneath, but what I do that defines me."* 🦇  
  
 
-##  💼 Experiences  
+##  💼 *Experiences*  
 - 🍏 **Apple Foundation Program** – Developed problem-solving and app development skills through Design Thinking (Swift) 
 - 🏛 **Digital Transition Facilitator** – Helped businesses embrace digital transformation  
 - 🎓 **University Tutor** – Assisted students in mastering technical subjects  
@@ -39,9 +39,9 @@ Through these experiences, I’ve gained valuable expertise in **Project Managem
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcoMelucci99&theme=dracula)  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-## **📌 Social & Contacts**  
+## **📫 Let's Connect**  
 🐙 **GitHub** → [MarcoMelucci99](https://github.com/MarcoMelucci99)  
 💼 **LinkedIn** → [Marco Melucci](https://www.linkedin.com/in/marco-melucci-friendlyhacker/)  
 📧 **Email** → marcomelucci23@gmail.com  
 
-🔎 *Stay curious. Stay ethical. Stay ahead.*  
+## 🔎 *Stay curious. Stay ethical. Stay ahead.*  
