@@ -1,13 +1,10 @@
-## 🚀 Welcome to my Cyber Chronicles 🚀 
+## 🚀 Hey there! 👋 
 
 
-👋 Hey there! I'm a cybersecurity student at Cyber HackAdemy Unina, passionate about exploring the unseen layers of the digital world. This repository is my personal playground—where code meets security, and curiosity fuels innovation
+I'm Marco, a cybersecurity student at Cyber HackAdemy Unina, passionate about exploring the unseen layers of the digital world. I have a Master's Degree in Data Analysis. This repository is my personal playground—where code meets security, and curiosity fuels innovation
 
 
-💻 From dissecting vulnerabilities to crafting defenses, every project here is a step deeper into the art of cybersecurity. Some things are tools, some are experiments... and some? Well, you'll have to see for yourself.
-
-
-"It's not who I am underneath, but what I do that defines me."🦇
+🦇 "It's not who I am underneath, but what I do that defines me."🦇
 
 
 🔎 Stay curious. Stay ethical. Stay ahead
@@ -30,13 +27,5 @@
 
 ## 📌 Social & Contacts
 🐙 GitHub Profile → https://github.com/MarcoMelucci99
-💼 LinkedIn → https://www.linkedin.com/in/MarcoMelucci99/ (se hai un profilo LinkedIn)
-🐦 Twitter (X) → https://twitter.com/MarcoMelucci99 (se usi Twitter/X per cybersecurity)
-📧 Email Me → mailto:tuo@email.com (se vuoi mettere una mail di contatto)
-## 🛠 Cybersecurity & Coding
-🚀 TryHackMe → https://tryhackme.com/p/MarcoMelucci99 (se hai un account THM)
-🏆 Hack The Box → https://app.hackthebox.com/profile/MarcoMelucci99 (se hai un profilo HTB)
-🔥 CTFtime → https://ctftime.org/team/MarcoMelucci99 (se fai CTF e vuoi mostrare i tuoi progressi)
-
-
-[![Rickroll](https://img.shields.io/badge/Click%20Me%20😏-red?style=for-the-badge)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+💼 LinkedIn → https://www.linkedin.com/in/marco-melucci-friendlyhacker/
+📧 Email Me → marcomelucci23@gmail.com
