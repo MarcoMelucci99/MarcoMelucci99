@@ -1,8 +1,8 @@
 # **🤖 Hello there, I'm Marco Melucci!** 👋  
 
-# 🔐 Cybersecurity Enthusiast | 📊 Master's Degree in Data Analysis  
+## 🔐 Cybersecurity Enthusiast | 📊 Master's Degree in Data Analysis  
 
-##  About Me 🧑‍💻 
+#  About Me 🧑‍💻 
 Hi! I'm a passionate tech enthusiast currently studying at **Cyber Hackademy Unina**.  
 I have a **Master's degree in Data Analysis**, and my curiosity has always pushed me to explore different fields.  
 
