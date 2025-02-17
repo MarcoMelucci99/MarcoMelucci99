@@ -1,8 +1,8 @@
 # **🤖 Hello there, I'm Marco Melucci!** 👋  
 
-## **🔐 Cybersecurity Enthusiast | 📊 Master's Degree in Data Analysis ** 
+# 🔐 Cybersecurity Enthusiast | 📊 Master's Degree in Data Analysis  
 
-## ** About Me 🧑‍💻 **
+##  About Me 🧑‍💻 
 Hi! I'm a passionate tech enthusiast currently studying at **Cyber Hackademy Unina**.  
 I have a **Master's degree in Data Analysis**, and my curiosity has always pushed me to explore different fields.  
 
@@ -14,7 +14,7 @@ Technology isn't just a tool for me—it's a way to create, solve, and innovate.
 > 🦇 *"It's not who I am underneath, but what I do that defines me."* 🦇  
  
 
-## ** 💼 Experiences  **
+##  💼 Experiences  
 - 🍏 **Apple Foundation Program** – Developed problem-solving and app development skills through Design Thinking (Swift) 
 - 🏛 **Digital Transition Facilitator** – Helped businesses embrace digital transformation  
 - 🎓 **University Tutor** – Assisted students in mastering technical subjects  
