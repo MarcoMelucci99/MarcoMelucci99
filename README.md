@@ -17,9 +17,7 @@
 🤝 **Teamwork & Collaboration**  
 🚀 **Project Management**  
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🔥-red?style=for-the-badge)  
-![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge)  
-![Hack The Planet](https://img.shields.io/badge/Hack%20The%20Planet-💻-purple?style=for-the-badge)  
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-🔥-red?style=for-the-badge)  ![Python](https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge)  ![Hack The Planet](https://img.shields.io/badge/Hack%20The%20Planet-💻-purple?style=for-the-badge)  
 
 ## **📊 GitHub Stats**  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoMelucci99&show_icons=true&theme=radical)  
