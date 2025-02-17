@@ -1,10 +1,10 @@
 # **🤖 Hello there, I'm Marco Melucci!** 👋  
 
-## 🔐 *Cybersecurity Enthusiast | 📊 Master's Degree in Data Analysis*  
+## 🔐 Cybersecurity Enthusiast | 📊 Master's Degree in Data Analysis 
 
 #  About Me 🧑‍💻 
-Hi! I'm a passionate tech enthusiast currently studying at **Cyber Hackademy Unina**.  
-I have a **Master's degree in Data Analysis**, and my curiosity has always pushed me to explore different fields.  
+I'm a passionate tech enthusiast currently studying at **Cyber Hackademy Unina**.  
+I have a **Master's degree in Data Analysis**, and my curiosity has always pushed me to explore different fields.
 
 
 What sets me apart? I love connecting the dots between different disciplines, using my cross-disciplinary skills to approach problems from **a unique and innovative perspective**.  
@@ -34,9 +34,12 @@ Through these experiences, I’ve gained valuable expertise in **Project Managem
  
 
 ## **📊 GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoMelucci99&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoMelucci99&layout=compact&theme=radical&langs_count=4&exclude_repo=your-repository-name&hide=html,css)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoMelucci99&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoMelucci99&layout=compact&theme=radical&langs_count=4&exclude_repo=your-repository-name&hide=html,css)  
+
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcoMelucci99&theme=dracula)  
+
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
 ## **📫 Let's Connect**  
