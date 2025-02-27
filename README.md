@@ -46,5 +46,6 @@ Through these experiences, I’ve gained valuable expertise in **Project Managem
 🐙 **GitHub** → [MarcoMelucci99](https://github.com/MarcoMelucci99)  
 💼 **LinkedIn** → [Marco Melucci](https://www.linkedin.com/in/marco-melucci-friendlyhacker/)  
 📧 **Email** → marcomelucci23@gmail.com  
+🌐 **Website** marcomelucci.me
 
 ## 🔎 *Stay curious. Stay ethical. Stay ahead.*  
