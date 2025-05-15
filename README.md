@@ -17,10 +17,7 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 - 🧠 **LLMs & AI** – Prompt Engineering, Exploratory ML, Deepfake Detection  
 - 🗂 **Project Management** – Miro, Notion  
 - 🔍 **Digital Forensics & Vulnerability Scanning**
-
-
 ![Terminal Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&width=435&lines=Stay+hungry,+stay+curious.;Hack+the+Planet.;Cybersecurity+is+my+second+language.)
-
 ##  💼 *Experiences*  
 - 🍏 **Apple Foundation Program** – Developed problem-solving and app development skills through Design Thinking (Swift) 
 - 🏛 **Digital Transition Facilitator** – Helped businesses embrace digital transformation  
