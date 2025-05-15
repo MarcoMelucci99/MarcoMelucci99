@@ -1,8 +1,9 @@
 # 👋 Hi there, I'm Marco Melucci 👨‍💻
 ### Cybersecurity Enthusiast • Data Analyst | 🔽 Where to Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melucci-friendlyhacker/) [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/marcomelucci-friendlyhacker) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121011.svg?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/MarcoMelucci) [![Hack The Box](https://img.shields.io/badge/HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2229520) 📫 **Email:** marcomelucci23@gmail.com • 🌐 [marcomelucci.me](http://marcomelucci.me/)
+![Terminal Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&width=435&lines=Stay+hungry,+stay+curious.;Hack+the+Planet.;Cybersecurity+is+my+second+language.)
 
-#  About Me 🧑‍💻 | ![Terminal Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&width=435&lines=Stay+hungry,+stay+curious.;Hack+the+Planet.;Cybersecurity+is+my+second+language.)
+#  About Me 🧑‍💻 |
 Hey there! I’m Marco, currently attending the **Cyber Hackademy UNINA** – an intensive, hands-on program covering everything from **networking, ethical hacking, and cloud security**, to **AI, LLMs**, and more.
 
 I'm passionate about **technology** in all its forms: I love building and breaking down PCs, exploring the mechanics of the **digital society**, analyzing trends & tech/gaming news/drops  
@@ -17,6 +18,7 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 - 🧠 **LLMs & AI** – Prompt Engineering, Exploratory ML, Deepfake Detection  
 - 🗂 **Project Management** – Miro, Notion  
 - 🔍 **Digital Forensics & Vulnerability Scanning**
+
 ##  💼 *Experiences*  
 - 🍏 **Apple Foundation Program** – Developed problem-solving and app development skills through Design Thinking (Swift) 
 - 🏛 **Digital Transition Facilitator** – Helped businesses embrace digital transformation  
