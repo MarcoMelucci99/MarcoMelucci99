@@ -8,6 +8,9 @@ Hey there! I’m Marco, currently attending the **Cyber Hackademy UNINA** – an
 I'm passionate about **technology** in all its forms: I love building and breaking down PCs, exploring the mechanics of the **digital society**, analyzing trends & tech/gaming news/drops  
 > ## **I believe curiosity drives progress** 🔍
 
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="terminal hacker gif"/>
+
+
 ### 🔐 Hard Skills
 - 🐧 **Linux (Debian-based)** – Kali, Ubuntu  
 - 🛠 **Offensive Security Tools** – Burp Suite, Wireshark, Metasploit 
@@ -38,6 +41,8 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 </p>
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true)
+
+![Terminal Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&width=435&lines=Stay+hungry,+stay+curious.;Hack+the+Planet.;Cybersecurity+is+my+second+language.)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcomelucci23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melucci-friendlyhacker/)
