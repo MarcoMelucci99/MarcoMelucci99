@@ -1,6 +1,8 @@
-# **🤖 Hello there, I'm Marco Melucci!** 👋  
-
-## 🔐 Cybersecurity Enthusiast | 📊 Master's Degree in Data Analysis 
+# 👨‍💻 Marco Melucci  
+### Cybersecurity Enthusiast • Data Analyst • Creative Problem Solver  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melucci-friendlyhacker/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat&logo=github&logoColor=white)](https://github.com/MarcoMelucci99)  
+📫 **Email:** marcomelucci23@gmail.com • 🌐 [marcomelucci.me](http://marcomelucci.me/) 
 
 #  About Me 🧑‍💻 
 I'm a passionate tech enthusiast currently studying at **Cyber Hackademy Unina**.  
