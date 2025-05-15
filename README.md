@@ -47,4 +47,3 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121011.svg?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/MarcoMelucci) [![Hack The Box](https://img.shields.io/badge/HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2229520)
 
 > ## 🔍 “Not all who wander are lost, some are just scanning ports.”  
-![Snake animation](https://github.com/MarcoMelucci99/MarcoMelucci99/blob/output/github-contribution-grid-snake.svg)
