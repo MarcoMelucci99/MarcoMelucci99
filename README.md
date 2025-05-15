@@ -40,9 +40,12 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 ![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoMelucci99&hide=stars,issues&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoMelucci99&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)  
-
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcoMelucci99&show_icons=true&hide=stars,issues&theme=transparent&hide_border=true&icon_color=79ff97" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoMelucci99&layout=compact&theme=transparent&hide_border=true&hide=html,css&langs_count=6" width="48%">
+</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarcoMelucci99&theme=onedark&no-frame=true&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcomelucci23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melucci-friendlyhacker/)
