@@ -1,9 +1,6 @@
 # 👋 Hi there, I'm Marco Melucci 👨‍💻
-### Cybersecurity Enthusiast • Data Analyst  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melucci-friendlyhacker/) [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/marcomelucci-friendlyhacker)📫 **Email:** marcomelucci23@gmail.com • 🌐 [marcomelucci.me](http://marcomelucci.me/)
-
-## Hacking Experience - 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121011.svg?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/MarcoMelucci) [![Hack The Box](https://img.shields.io/badge/HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2229520)
+### Cybersecurity Enthusiast • Data Analyst | 🔽 Where to Find Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melucci-friendlyhacker/) [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/marcomelucci-friendlyhacker) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121011.svg?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/MarcoMelucci) [![Hack The Box](https://img.shields.io/badge/HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2229520) 📫 **Email:** marcomelucci23@gmail.com • 🌐 [marcomelucci.me](http://marcomelucci.me/)
 
 #  About Me 🧑‍💻 
 Hey there! I’m Marco, currently attending the **Cyber Hackademy UNINA** – an intensive, hands-on program covering everything from **networking, ethical hacking, and cloud security**, to **AI, LLMs**, and more.
@@ -40,10 +37,9 @@ I'm passionate about **technology** in all its forms: I love building and breaki
  
 
 ## **📊 GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcoMelucci99&show_icons=true&theme=radical)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoMelucci99&layout=compact&theme=radical&langs_count=4&exclude_repo=your-repository-name&hide=html,css)  
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcoMelucci99&hide=stars,issues&show_icons=true&theme=tokyonight&hide_border=true)
 
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=MarcoMelucci99&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoMelucci99&layout=compact&theme=tokyonight&hide_border=true&hide=html,css)  
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
@@ -53,6 +49,4 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](http://marcomelucci.me)
 [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/marcomelucci-friendlyhacker)
 
-:
-
-🕸 “Not all who wander are lost—some are just scanning ports.”  
+> ⌨️ “Not all who wander are lost—some are just scanning ports.”  
