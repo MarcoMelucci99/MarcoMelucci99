@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Marco Melucci 👨‍💻
-
-## Cybersecurity Enthusiast • Data Analyst | 🔽 Where to Find Me
+### Cybersecurity Enthusiast • Data Analyst | 🔽 Where to Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melucci-friendlyhacker/) [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/marcomelucci-friendlyhacker) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121011.svg?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/MarcoMelucci) [![Hack The Box](https://img.shields.io/badge/HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2229520) 📫 **Email:** marcomelucci23@gmail.com • 🌐 [marcomelucci.me](http://marcomelucci.me/)
+
 ![Terminal Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=7F55B1&color=C792EA&width=600&lines=It's+not+a+problem%2C+it's+a+feature;Security+is+%28not%29+my+problem;Every+day+is+a+zero-day+when+you+never+update.;Always+be+yourself.+Unless+you+can+be+root.;Nothing+rains+in+the+cloud%E2%80%A6+except+alerts+at+3AM.;I'm+not+a+hacker%2C+I'm+a+feature+with+privileges.)
 #  About Me 🧑‍💻 |
 Hey there! I’m Marco, currently attending the **Cyber Hackademy UNINA** – an intensive, hands-on program covering everything from **networking, ethical hacking, and cloud security**, to **AI, LLMs**, and more.
