@@ -37,12 +37,12 @@ I'm passionate about **technology** in all its forms: I love building and breaki
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoMelucci99&layout=compact&theme=transparent&hide_border=true&hide=html,css&langs_count=6" width="48%">
 </p>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true) [![GitHub Streak](https://streak-stats.demolab.com?user=MarcoMelucci99&theme=transparent&hide_border=true)](https://github.com/MarcoMelucci99)
-
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcomelucci23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melucci-friendlyhacker/)
 [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=About.me&logoColor=white)](http://marcomelucci.me)
 [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/marcomelucci-friendlyhacker)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121011.svg?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/MarcoMelucci) [![Hack The Box](https://img.shields.io/badge/HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2229520)
 
 > ## ⌨️ “Not all who wander are lost, some are just scanning ports.”  
