@@ -1,4 +1,4 @@
-# 👨‍💻 Hi there, I'm Marco Melucci 🇮🇹
+# 👋 Hi there, I'm Marco Melucci 👨‍💻
 ### Cybersecurity Enthusiast • Data Analyst  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melucci-friendlyhacker/) [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/marcomelucci-friendlyhacker)📫 **Email:** marcomelucci23@gmail.com • 🌐 [marcomelucci.me](http://marcomelucci.me/)
 
