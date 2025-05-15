@@ -8,9 +8,6 @@ Hey there! I’m Marco, currently attending the **Cyber Hackademy UNINA** – an
 I'm passionate about **technology** in all its forms: I love building and breaking down PCs, exploring the mechanics of the **digital society**, analyzing trends & tech/gaming news/drops  
 > ## **I believe curiosity drives progress** 🔍
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="terminal hacker gif"/>
-
-
 ### 🔐 Hard Skills
 - 🐧 **Linux (Debian-based)** – Kali, Ubuntu  
 - 🛠 **Offensive Security Tools** – Burp Suite, Wireshark, Metasploit 
@@ -20,6 +17,8 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 - 🧠 **LLMs & AI** – Prompt Engineering, Exploratory ML, Deepfake Detection  
 - 🗂 **Project Management** – Miro, Notion  
 - 🔍 **Digital Forensics & Vulnerability Scanning**
+
+![Terminal Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&width=435&lines=Stay+hungry,+stay+curious.;Hack+the+Planet.;Cybersecurity+is+my+second+language.)
 
 ##  💼 *Experiences*  
 - 🍏 **Apple Foundation Program** – Developed problem-solving and app development skills through Design Thinking (Swift) 
@@ -39,10 +38,6 @@ I'm passionate about **technology** in all its forms: I love building and breaki
   <img src="https://github-readme-stats.vercel.app/api?username=MarcoMelucci99&show_icons=true&hide=stars,issues&theme=transparent&hide_border=true&icon_color=79ff97" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoMelucci99&layout=compact&theme=transparent&hide_border=true&hide=html,css&langs_count=6" width="48%">
 </p>
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&hide_border=true)
-
-![Terminal Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=79FF97&width=435&lines=Stay+hungry,+stay+curious.;Hack+the+Planet.;Cybersecurity+is+my+second+language.)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marcomelucci23@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melucci-friendlyhacker/)
