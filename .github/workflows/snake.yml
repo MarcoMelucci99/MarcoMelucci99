@@ -2,7 +2,7 @@ name: Generate Snake Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # ogni giorno
+    - cron: "0 0 * * *"  # ogni giorno a mezzanotte
   workflow_dispatch:
 
 jobs:
