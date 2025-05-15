@@ -5,15 +5,15 @@
 #  About Me 🧑‍💻 
 Hey there! I’m Marco, currently attending the **Cyber Hackademy UNINA** – an intensive, hands-on program covering everything from **networking, ethical hacking, and cloud security**, to **AI, LLMs**, and more.
 
-I'm passionate about **technology** in all its forms: I love building and breaking down PCs, exploring the mechanics of the **digital society**, analyzing trends, and watching great cinema.  
+I'm passionate about **technology** in all its forms: I love building and breaking down PCs, exploring the mechanics of the **digital society**, analyzing trends & tech/gaming news/drops  
 > **I believe curiosity drives progress**
 
 ### 🔐 Hard Skills
 - 🐧 **Linux (Debian-based)** – Kali, Ubuntu  
 - 🛠 **Offensive Security Tools** – Burp Suite, Wireshark, Metasploit 
-- 💻 **Virtualization & Containers** – VMware, VirtualBox, Docker  
+- 💻 **Virtualization & Containers** – VMware, VirtualBox, Docker
 - ☁️ **Cloud & SecOps** – Google Cloud Platform (GCP), Google SecOps  
-- 📊 **Programming Languages & Web Development** – Python, R, SQL, HTML, CSS 
+- 📊 **Programming Languages & Web Development** – Python, R, SQL, Swift, HTML, CSS 
 - 🧠 **LLMs & AI** – Prompt Engineering, Exploratory ML, Deepfake Detection  
 - 🗂 **Project Management** – Miro, Notion  
 - 🔍 **Digital Forensics & Vulnerability Scanning**
