@@ -24,7 +24,7 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 - 🎓 **University Tutor** – Assisted students in mastering technical subjects  
 
 ### 📜 Certifications  
-- ✅ **Google Cloud Cybersecurity Certificate** – [View on Credly](https://www.credly.com/users/marcomelucci-friendlyhacker)  
+- ✅ **Google Cloud Cybersecurity Certificate** 
 - ✅ **GitHub Foundations**
 
 - ### 📚 Publications  
@@ -45,4 +45,4 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/marcomelucci-friendlyhacker)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121011.svg?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/MarcoMelucci) [![Hack The Box](https://img.shields.io/badge/HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2229520)
 
-> ## ⌨️ “Not all who wander are lost, some are just scanning ports.”  
+> ## 🔍 “Not all who wander are lost, some are just scanning ports.”  
