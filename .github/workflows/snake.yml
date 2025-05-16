@@ -1,4 +1,4 @@
-ame: Generate Snake Contribution
+name: Generate Snake Contribution
 on:
   schedule:
     - cron: "0 0 * * *"  # ogni giorno a mezzanotte
