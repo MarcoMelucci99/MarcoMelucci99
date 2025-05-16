@@ -1,4 +1,4 @@
-name: Generate Snake Contribution
+ame: Generate Snake Contribution
 on:
   schedule:
     - cron: "0 0 * * *"  # ogni giorno a mezzanotte
@@ -6,7 +6,12 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
@@ -16,14 +21,11 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake-dark.gif?palette=github-dark
-      - name: Push to GitHub repository
-        uses: EndBug/add-and-commit@v7.2.1
-        with:
-          branch: output
-          message: 'Generate Snake Contribution'
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
+          force_orphan: true  # Questo crea il branch output se non esiste
