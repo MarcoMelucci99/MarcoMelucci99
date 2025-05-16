@@ -48,3 +48,5 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 > ## 🔍 “Not all who wander are lost, some are just scanning ports.”  
 ![GitHub Snake Light](https://raw.githubusercontent.com/MarcoMelucci99/MarcoMelucci99/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/MarcoMelucci99/MarcoMelucci99/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+![Terminal Quote](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=3500&pause=1200&color=00E7FF&background=FFFFFF00&width=600&lines=It's+not+a+problem%2C+it's+a+feature;Security+is+%28not%29+my+problem;Every+day+is+a+zero-day+when+you+never+update.;Always+be+yourself.+Unless+you+can+be+root.;Nothing+rains+in+the+cloud%E2%80%A6+except+alerts+at+3AM.;I'm+not+a+hacker%2C+I'm+a+feature+with+privileges.)
