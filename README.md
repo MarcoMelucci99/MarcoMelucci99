@@ -44,4 +44,6 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/marcomelucci-friendlyhacker)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121011.svg?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/MarcoMelucci) [![Hack The Box](https://img.shields.io/badge/HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2229520)
 
+![GitHub Snake Light](https://raw.githubusercontent.com/MarcoMelucci99/MarcoMelucci99/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/MarcoMelucci99/MarcoMelucci99/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 > ## 🔍 “Not all who wander are lost, some are just scanning ports.”  
