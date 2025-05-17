@@ -13,13 +13,13 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 - 🐧 **Linux (Debian-based)** – Kali, Ubuntu  
 - 🛠 **Offensive Security Tools** – Burp Suite, Wireshark, Metasploit 
 - 💻 **Virtualization & Containers** – VMware, VirtualBox, Docker
-- ☁️ **Cloud & SecOps** – Google Cloud Platform (GCP), Google SecOps  
+- ☁️ **Cloud & SecOps** – Google Cloud Platform (GCP), Google SecOps 
 - 📊 **Programming Languages & Web Development** – Python, R, SQL, Swift, HTML, CSS 
-- 🧠 **LLMs & AI** – Prompt Engineering, Exploratory ML, Deepfake Detection  
+- 🧠 **LLMs & AI** – Prompt Engineering, Deepfake Detection  
 - 🗂 **Project Management** – Miro, Notion  
 - 🔍 **Digital Forensics & Vulnerability Scanning**
-
-
+- 🛜 **Networking**
+- 
 ##  💼 *Experiences*  
 - 🍏 **Apple Foundation Program** – Developed problem-solving and app development skills through Design Thinking (Swift) 
 - 🏛 **Digital Transition Facilitator** – Helped businesses embrace digital transformation  
