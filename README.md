@@ -19,7 +19,7 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 - 🗂 **Project Management** – Miro, Notion  
 - 🔍 **Digital Forensics & Vulnerability Scanning**
 - 🛜 **Networking**
-- 
+
 ##  💼 *Experiences*  
 - 🍏 **Apple Foundation Program** – Developed problem-solving and app development skills through Design Thinking (Swift) 
 - 🏛 **Digital Transition Facilitator** – Helped businesses embrace digital transformation  
