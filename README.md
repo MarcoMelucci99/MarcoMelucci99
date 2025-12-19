@@ -1,10 +1,10 @@
-# 👋 Hi there, I'm Marco Melucci 👨‍💻
-### Security Transformation Analyst @Accenture | 🔽 Where to Find Me
+# 👋 Hey there, I'm Marco Melucci 👨‍💻
+### Security Transformation Analyst @Accenture | OT Security | 🔽 Where to Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-melucci-friendlyhacker/) [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/marcomelucci-friendlyhacker) [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23121011.svg?style=flat&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/MarcoMelucci) [![Hack The Box](https://img.shields.io/badge/HackTheBox-111111?style=flat&logo=hackthebox&logoColor=green)](https://app.hackthebox.com/profile/2229520) 📫 **Email:** marcomelucci23@gmail.com • 🌐 [marcomelucci.me](http://marcomelucci.me/)
 
 ![Terminal Quote](https://readme-typing-svg.demolab.com?font=Fira+Mono&weight=600&size=18&pause=4000&duration=2500&color=7209b7&width=600&lines=It's+not+a+problem%2C+it's+a+feature;Security+is+%28not%29+my+problem;Every+day+is+a+zero-day+when+you+never+update.;Always+be+yourself.+Unless+you+can+be+root.+Then+be+root.;Nothing+rains+in+the+cloud%E2%80%A6+except+alerts+at+3AM.;I'm+not+a+hacker%2C+I'm+a+feature+with+privileges.)
 #  About Me 🧑‍💻 |
-Hey there! I’m Marco, currently attending the **Cyber Hackademy UNINA** – an intensive, hands-on program covering everything from **networking, ethical hacking, and cloud security**, to **AI, LLMs**, and more.
+I'm currently working in **Accenture Cybersecurity**, working end-to-end across OT/ICS & Cloud. 
 
 I'm passionate about **technology** in all its forms: I love building and breaking down PCs, exploring the mechanics of the **digital society**, analyzing trends & tech/gaming news/drops  
 > ## **I believe curiosity drives progress** 🔍
@@ -21,6 +21,7 @@ I'm passionate about **technology** in all its forms: I love building and breaki
 - 🛜 **Networking**
 
 ##  💼 *Experiences*  
+- 💼 **Security Transformation Analyst** @Accenture - From November 2025
 - 🍏 **Apple Foundation Program** – Developed problem-solving and app development skills through Design Thinking (Swift) 
 - 🏛 **Digital Transition Facilitator** – Helped businesses embrace digital transformation  
 - 🎓 **University Tutor** – Assisted students in mastering technical subjects  
